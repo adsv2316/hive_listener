@@ -10,5 +10,5 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  hive: ^2.0.4
+  hive: ^1.4.4+1 #^2.0.4
   hive_flutter: ^1.0.0
